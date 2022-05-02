@@ -1,0 +1,97 @@
+*{margin: 0px; padding: 0px;}
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    margin-left: 16%;
+    margin-right: 40%;
+}
+.button1{
+    background-color: 21B573;
+    border-radius: 20px;
+    padding: 2px 20px;
+   
+   
+}
+.nav-link{
+    margin-right: 20px;
+}
+.nav-icon{
+    width: 200px;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+/* .slider{
+    margin-left: 5%;
+} */
+.bg-color h5{
+    color: red;
+    text-align: justify;
+}
+.slider h1{
+    color: black;
+    font-weight: 900;
+    text-align: justify;
+}
+.image{
+    width: 554px;
+}
+.card1{
+    box-shadow: 10px 10px 10px lightgray;
+    margin-right: 10px;
+    width: 315px;
+    background-color: #F0FFF0;
+}
+.card1 img{
+    width: 88px; 
+    margin-left: 40%; 
+    padding: 25px 1px;
+}
+.card1 h5{
+    text-align: center;
+}
+.Purple-Highlighter{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #413960;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+.card2{
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+    
+}
+.card3{
+    margin-bottom: 30px;
+}
+.card3 p{
+  
+    text-align: justify;
+    margin-right: 20%;
+}
+.card3 img{
+   
+   width: 200px;
+   margin-left: 40%;
+}
+.bg1-color{
+    background-color: #282531;
+    padding: 50px 50px;
+}
+.bg1-color p{
+   color: white;
+}
+.bg1-color a{
+   color: white;
+   text-decoration: none;
+}
+.bg2-color h6{
+   color: dimgray;
+   text-align: center;
+   background-color: #282531;
+   padding: 10px 2px;
+}
